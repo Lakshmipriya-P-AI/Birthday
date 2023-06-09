@@ -21,16 +21,25 @@ To create a Birthday card using HTML and CSS
 <head>
     <title>Birthday Card</title>
 </head>
-<body style="background-image:url('bg.jpg'); background-size: cover; background-position: center; text-align: center; margin: 0; padding: 0;">
-    <h1 style="font-size: 4rem; margin-top: 10rem; color: #cd2165; text-shadow: 3px 3px 0px #e451b1;">Happy Birthday!</h1>
-    <img src="lolo.jpeg" alt="birthday image" style="border-radius: 50%; margin-top: 1rem; box-shadow: 5px 5px 0px #FFF; width: 350px; height: 350px;">
-    <p style="font-size: 2rem; margin-bottom: 2rem; color: #257dc6; text-shadow: 1px 1px 0px #4a94c2;">“May you be gifted with life’s biggest joys and never-ending bliss.<br/> After all, you yourself are a gift to earth, so you deserve the best. Happy birthday.”</p>
-    <p style="font-size: 2rem; margin-bottom: 2rem; color: #ce3636; text-shadow: 1px 1px 0px #c34e4e;">“May god bless you !!!”</p>
+<body style="background-image:url('bg.jpg'); 
+background-size: cover; background-position: center; 
+text-align: center; margin: 0; padding: 0;">
+    
+    <h1 style="font-size: 4rem; margin-top: 10rem; color: #cd2165;
+     text-shadow: 3px 3px 0px #e451b1;">Happy Birthday!</h1>
+    <img src="lolo.jpeg" alt="birthday image" style="border-radius: 50%; 
+    margin-top: 1rem; box-shadow: 5px 5px 0px #FFF; width: 350px; height: 350px;">
+    <p style="font-size: 2rem; margin-bottom: 2rem; color: #257dc6; 
+    text-shadow: 1px 1px 0px #4a94c2;">“May you be gifted with life’s biggest joys and never-ending bliss.<br/> 
+    After all, you yourself are a gift to earth, so you deserve the best. Happy birthday.”</p>
+    <p style="font-size: 2rem; margin-bottom: 2rem; color: #ce3636; 
+    text-shadow: 1px 1px 0px #c34e4e;">“May god bless you !!!”</p>
     
         
     </div><div style="margin-top: 5rem; padding: 2rem; background-color: #FFF; box-shadow: 5px 5px 0px #F68E5F;"></div>
 </body>
 </html>
+
 ```
 ## OUTPUT:
 ![image](https://github.com/Lakshmipriya-P-AI/Birthday/assets/93427923/c0bc760b-67ea-4e68-8262-198f9c104cea)
